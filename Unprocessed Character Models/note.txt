@@ -1,0 +1,1 @@
+these character models are in PMX form, which is intended for a japanese animation software called MMD. these files have yet to be converted to unity files.
